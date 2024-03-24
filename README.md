@@ -32,7 +32,7 @@
 #### ./gradlew clean test
 
 ### Comando para ejecutar por feature
-#### ./gradlew test --tests "co.com.screenplay.project.runners.RunnerOpenWeb"
+#### ./gradlew test --tests "co.com.screenplay.project.runners.GetRunner"
 #### ./gradlew test --tests "co.com.screenplay.project.runners" --- TODO LOS FEATURES
 
 ### Comando para generar reporte despues que haya terminado un test (Por consola arrojara la ruta .html )
